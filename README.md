@@ -13,7 +13,7 @@ This project written using golang with following the module:
 - [MongoDB installation](mongodb/README.md)
 
 ### Architecture
-![](images/kafka-riset.png)
+![](images/svc-diagram.png)
 
 ### Build program
 ```
