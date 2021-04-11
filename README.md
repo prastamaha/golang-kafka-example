@@ -17,7 +17,7 @@ This project written using golang with following the module:
 
 ### Build program
 ```
-git clone go.btech.id/prasta/kafka-riset.git
+git clone https://github.com/prastamaha/golang-kafka-example.git
 cd kafka-riset
 
 # Microservice1
